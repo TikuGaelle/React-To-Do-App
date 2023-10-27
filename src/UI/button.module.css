@@ -8,7 +8,7 @@
 }
 .button:hover,
 .button:active {
-  background-color: rgb(1, 78, 78);
+  background-color: rgb(14, 51, 51);
   border-color: rgb(1, 78, 78);
 }
 .button:focus {

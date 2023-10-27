@@ -5,7 +5,7 @@ const Button = (props) => {
     <>
       <button
         className={classes.button}
-        type={props.type || "button"}
+        type={props.type || "buttons"}
         onClick={() => {
           props.onClick();
         }}
